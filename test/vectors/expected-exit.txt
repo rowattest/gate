@@ -1,0 +1,8 @@
+kit1-summary.json 0
+kit1-tampered-total.json 1
+kit1-wrong-key.json 1
+kit1-bad-sha.json 1
+kit1-bad-url.json 1
+kit1-no-signature.json 1
+kit1-not-json.txt 1
+kit1-reordered.json 0

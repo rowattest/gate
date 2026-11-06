@@ -1,0 +1,1 @@
+This file is not JSON. It stands for a report that was cut or mangled in transit.
